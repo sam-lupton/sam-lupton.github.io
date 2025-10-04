@@ -1,6 +1,6 @@
 # Sam Lupton - Personal Website
 
-A modern, vaporwave-styled personal website built with React and deployed on GitHub Pages.
+Built with React and deployed on GitHub Pages.
 
 ## 🌟 Features
 
