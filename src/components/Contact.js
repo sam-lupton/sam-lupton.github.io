@@ -38,34 +38,33 @@ const Contact = () => {
         {
             icon: '📧',
             title: 'EMAIL',
-            value: 'sam.lupton@example.com',
-            link: 'mailto:sam.lupton@example.com'
+            value: 'Placeholder',
+            link: 'mailto:Placeholder'
         },
         {
             icon: '📱',
             title: 'PHONE',
-            value: '+1 (555) 123-4567',
-            link: 'tel:+15551234567'
+            value: 'Wouldn\'t you like to know',
+            link: 'tel:Placeholder'
         },
         {
             icon: '📍',
             title: 'LOCATION',
-            value: 'San Francisco, CA',
+            value: 'Holloway, London, UK',
             link: '#'
         },
         {
             icon: '💼',
             title: 'LINKEDIN',
-            value: 'linkedin.com/in/samlupton',
-            link: 'https://linkedin.com/in/samlupton'
+            value: 'linkedin.com/in/sam-lupton',
+            link: 'https://linkedin.com/in/sam-lupton'
         }
     ];
 
     const socialLinks = [
         { name: 'GitHub', icon: '🐙', url: 'https://github.com/sam-lupton' },
         { name: 'Twitter', icon: '🐦', url: 'https://twitter.com/samlupton' },
-        { name: 'LinkedIn', icon: '💼', url: 'https://linkedin.com/in/samlupton' },
-        { name: 'Instagram', icon: '📷', url: 'https://instagram.com/samlupton' }
+        { name: 'LinkedIn', icon: '💼', url: 'https://linkedin.com/in/samlupton' }
     ];
 
     return (

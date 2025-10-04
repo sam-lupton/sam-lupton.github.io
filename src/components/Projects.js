@@ -7,7 +7,7 @@ const Projects = () => {
     const projects = [
         {
             id: 1,
-            title: 'AI-Powered E-commerce Platform',
+            title: 'AI-Powered E-commerce Platform (Placeholder ',
             description: 'A full-stack e-commerce solution with machine learning recommendations, real-time analytics, and automated inventory management.',
             image: '🛒',
             technologies: ['React', 'Node.js', 'Python', 'TensorFlow', 'MongoDB'],
