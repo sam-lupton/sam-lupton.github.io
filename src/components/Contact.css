@@ -332,6 +332,18 @@
     font-weight: bold;
 }
 
+.submit-error {
+    color: #ff6b6b;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 0.9rem;
+    text-align: center;
+    padding: 1rem;
+    background: rgba(255, 107, 107, 0.1);
+    border: 1px solid rgba(255, 107, 107, 0.3);
+    border-radius: 8px;
+    animation: fadeIn 0.3s ease;
+}
+
 @keyframes fadeIn {
     from {
         opacity: 0;
