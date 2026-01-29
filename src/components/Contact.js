@@ -53,7 +53,7 @@ const Contact = () => {
     {
       icon: "📍",
       title: "LOCATION",
-      value: "Holloway, N7, London, UK",
+      value: "Islington, London, UK",
       link: "#",
     },
     {
